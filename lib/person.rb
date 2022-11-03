@@ -15,4 +15,4 @@ bob_attributes = { name: "Bob", hair_color: "Brown" }
 bob = Person.new(bob_attributes)
 bob.name  
 
-binding.pry
+#binding.pry
